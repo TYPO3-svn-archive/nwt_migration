@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;tools_txnwtmigrationM1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="title">Migration</label>
+			<label index="function1">Status</label>
+			<label index="function2">Function #2</label>
+			<label index="function3">Function #3</label>
+			
+			<label index="number">Nr.</label>
+			<label index="migration_id">ID</label>
+			<label index="migration_title">Title</label>
+			<label index="migration_status">Status</label>
+			<label index="migration_action">Run</label>
+			
+			<label index="migration_runup">Apply</label>
+			<label index="migration_rundown">Revert</label>
+			
+			<label index="migration_run_up_successful">Migration successfully applied</label>
+			<label index="migration_run_up_notsuccessful">Error while applying the Migration</label>
+			<label index="migration_run_down_successful">Migration successfully reverted</label>
+			<label index="migration_run_down_notsuccessful">Error while reverting the Migration</label>
+		</languageKey>
+	</data>
+</T3locallang>

@@ -1,0 +1,2 @@
+ #cat=others;type=string;label=Path migration Scripts:Path to the mirgationskripts
+path_migrations = fileadmin/internal/migrations/
